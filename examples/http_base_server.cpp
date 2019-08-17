@@ -8,7 +8,7 @@ using namespace http;
 int main(){
     proactor_engine engine;
 
-    shine::string addr = "0.0.0.0:8300";
+    shine::string addr = "139.155.155.139:8300";
     bool rc = engine.add_acceptor("http_base_server", addr, [&engine](bool status, connection *conn)->bool{
         if (status)
         {

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="shineframe_examples" targetName="json_model" />
+      <config projectName="shineframe_examples" targetName="proactor_echo_client" />
+      <config projectName="shineframe_examples" targetName="mysql" />
+      <config projectName="shineframe_examples" targetName="concurrent_queue" />
+      <config projectName="shineframe_examples" targetName="rpc_server" />
+      <config projectName="shineframe_examples" targetName="http_base_server" />
+      <config projectName="shineframe_examples" targetName="serial_model" />
+      <config projectName="shineframe_examples" targetName="filesystem" />
+      <config projectName="shineframe_examples" targetName="raft_nosql_example" />
+      <config projectName="shineframe_examples" targetName="websocket_echo_server" />
+      <config projectName="shineframe_examples" targetName="string" />
+      <config projectName="shineframe_examples" targetName="redis_sync" />
+      <config projectName="shineframe_examples" targetName="http_base_client" />
+      <config projectName="shineframe_examples" targetName="json_base" />
+      <config projectName="shineframe_examples" targetName="proactor_echo_server" />
+      <config projectName="shineframe_examples" targetName="rpc_client" />
+      <config projectName="shineframe_examples" targetName="zeromq" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67fae0a9-e891-4abe-8a9d-6bf9a43c85d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/http_base_server.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/http_base_server.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/http_base_client.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/http_base_server.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/zeromq.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/raft_nosql/reset.bat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/raft_nosql/reset.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/concurrent_queue.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/common/define.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/http/http_server.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3157" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/examples/http_base_server.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/WDvideo.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shineframe_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WDvideo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shineframe_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WDvideo" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shineframe_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WDvideo" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shineframe_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WDvideo" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.zeromq">
+    <configuration name="concurrent_queue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="concurrent_queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="concurrent_queue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filesystem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="filesystem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="filesystem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="http_base_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="http_base_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="http_base_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="http_base_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="http_base_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="http_base_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="json_base" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="json_base" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="json_base">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="json_model" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="json_model" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="json_model">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="mysql" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="mysql">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proactor_echo_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="proactor_echo_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="proactor_echo_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proactor_echo_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="proactor_echo_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="proactor_echo_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="raft_nosql_example" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="raft_nosql_example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="raft_nosql_example">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redis_sync" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="redis_sync" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="redis_sync">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rpc_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="rpc_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="rpc_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rpc_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="rpc_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="rpc_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serial_model" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="serial_model" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="serial_model">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="string">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="websocket_echo_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="websocket_echo_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="websocket_echo_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zeromq" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shineframe_examples" TARGET_NAME="zeromq" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shineframe_examples" RUN_TARGET_NAME="zeromq">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.concurrent_queue" />
+      <item itemvalue="CMake Application.filesystem" />
+      <item itemvalue="CMake Application.http_base_client" />
+      <item itemvalue="CMake Application.http_base_server" />
+      <item itemvalue="CMake Application.json_base" />
+      <item itemvalue="CMake Application.json_model" />
+      <item itemvalue="CMake Application.mysql" />
+      <item itemvalue="CMake Application.proactor_echo_client" />
+      <item itemvalue="CMake Application.proactor_echo_server" />
+      <item itemvalue="CMake Application.raft_nosql_example" />
+      <item itemvalue="CMake Application.redis_sync" />
+      <item itemvalue="CMake Application.rpc_client" />
+      <item itemvalue="CMake Application.rpc_server" />
+      <item itemvalue="CMake Application.serial_model" />
+      <item itemvalue="CMake Application.string" />
+      <item itemvalue="CMake Application.websocket_echo_server" />
+      <item itemvalue="CMake Application.zeromq" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67fae0a9-e891-4abe-8a9d-6bf9a43c85d6" name="Default Changelist" comment="" />
+      <created>1566079299678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566079299678</updated>
+      <workItem from="1566079301112" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="389000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.3283582" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/raft_nosql/reset.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/raft_nosql/reset.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/http_base_client.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/zeromq.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common/define.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/http/http_server.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3157" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/concurrent_queue.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/http_base_server.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
